@@ -1,0 +1,16 @@
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/AoC11
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/AoC11.deps.json
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/AoC11.runtimeconfig.json
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/AoC11.dll
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/AoC11.pdb
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.csproj.AssemblyReference.cache
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.AssemblyInfoInputs.cache
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.AssemblyInfo.cs
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.csproj.CoreCompileInputs.cache
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.dll
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/refint/AoC11.dll
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.pdb
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/AoC11.genruntimeconfig.cache
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/obj/Debug/net7.0/ref/AoC11.dll
+/Users/kristofferjakobsson/Projects/AoC11/AoC11/bin/Debug/net7.0/input.txt
